@@ -4,25 +4,27 @@ Um sistema operacional educacional desenvolvido em C com o objetivo de aprender 
 
 O projeto não pretende substituir um sistema operacional real como Windows ou Linux. O foco é estudar os conceitos fundamentais por trás de um sistema operacional através da construção gradual de um ambiente interativo em terminal.
 
-🚀 Objetivos do Projeto
-Aprender linguagem C na prática
-Entender organização de projetos maiores
-Aplicar modularização com arquivos .c e .h
-Desenvolver lógica de programação
-Simular funcionalidades presentes em sistemas operacionais
-Construir um projeto de portfólio para GitHub
-📚 Conceitos Estudados
-Variáveis
-Condicionais (if, switch)
-Laços de repetição (while)
-Funções
-Modularização
-Manipulação de strings
-Estruturas de projeto
-Compilação com GCC
-Controle de fluxo
-Organização de código
-📂 Estrutura do Projeto
+##🚀 Objetivos do Projeto
+-Aprender linguagem C na prática
+-Entender organização de projetos maiores
+-Aplicar modularização com arquivos .c e .h
+-Desenvolver lógica de programação
+-Simular funcionalidades presentes em sistemas operacionais
+-Construir um projeto de portfólio para GitHub
+## 📚 Conceitos Estudados
+-Variáveis
+-Condicionais (if, switch)
+-Laços de repetição (while)
+-Funções
+-Modularização
+-Manipulação de strings
+-Estruturas de projeto
+-Compilação com GCC
+-Controle de fluxo
+-Organização de código
+
+## 📂 Estrutura do Projeto
+'''text
 PebaOS/
 
 ├── src/
@@ -41,6 +43,7 @@ PebaOS/
 ├── docs/
 │
 └── README.md
+'''
 ✅ Funcionalidades Implementadas
 Sistema de Login
 Usuário fixo
