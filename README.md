@@ -24,26 +24,25 @@ O projeto não pretende substituir um sistema operacional real como Windows ou L
 -Organização de código
 
 ## 📂 Estrutura do Projeto
-'''text
-PebaOS/
 
-├── src/
+```text
+PebaOS
+│
+├── src
 │   ├── main.c
 │   ├── menu.c
 │   ├── login.c
 │   └── infoSistema.c
 │
-├── include/
+├── include
 │   ├── menu.h
 │   ├── login.h
 │   └── infoSistema.h
 │
-├── data/
-│
-├── docs/
-│
+├── data
+├── docs
 └── README.md
-'''
+```
 ✅ Funcionalidades Implementadas
 Sistema de Login
 Usuário fixo
